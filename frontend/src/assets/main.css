@@ -1,0 +1,17 @@
+/* src/assets/main.css */
+
+/* Reset default margin and padding */
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply some basic styles to the body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Add more styles as needed */
